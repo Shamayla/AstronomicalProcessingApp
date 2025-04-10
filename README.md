@@ -1,1 +1,1 @@
-# AstronomicalProcessingApp
+# Astronomical Processing Application
