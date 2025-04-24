@@ -41,7 +41,7 @@ namespace AstronomicalProcessing
             // Loading the integer data into array
             for (int i = 0; i < neutrinoDataArray.Length; i++)
             {
-                neutrinoDataArray[i] = random.Next(10, 200);
+                neutrinoDataArray[i] = random.Next(10, 90);
             }
 
             // function call to load data to listbox for display on GUI
