@@ -185,6 +185,7 @@ namespace AstronomicalProcessing
                     TB_EditData.Clear();
                     TB_SaveData.Clear();
                     selectedIndex = -1;
+                    isSorted = false;
                 }
                 else
                 {

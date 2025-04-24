@@ -8,3 +8,13 @@ C:\Users\shama\source\repos\AstronomicalProcessingApp\AstronomicalProcessing\obj
 C:\Users\shama\source\repos\AstronomicalProcessingApp\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
 C:\Users\shama\source\repos\AstronomicalProcessingApp\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
 C:\Users\shama\source\repos\AstronomicalProcessingApp\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\shama\source\repos\New folder\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
