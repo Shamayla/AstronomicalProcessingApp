@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AstronomicalProcessing/.vs/AstronomicalProcessing/FileContentIndex/461a7081-b4e5-4bc8-a2ff-fa0e781e59b5.vsidx
+/AstronomicalProcessing/.vs/AstronomicalProcessing/FileContentIndex/482d4be6-cc51-40be-9fa9-366b1806459d.vsidx
+*.vsidx
