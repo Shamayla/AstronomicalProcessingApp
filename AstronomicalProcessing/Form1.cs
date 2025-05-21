@@ -187,7 +187,7 @@ namespace AstronomicalProcessing
                 {
                     //MessageBox.Show("Please enter valid value to search.", "Error: Invalid/Missing value");
                     LB_MessageToUser.ForeColor = Color.OrangeRed;
-                    LB_MessageToUser.Text = $"Error Message! Please enter the value to search.";
+                    LB_MessageToUser.Text = $"Error! Invalid value has entered. Please enter integer value.";
                     LBx_NeutrinoData.SelectedIndex = foundIndex;
                 }
             }
@@ -210,7 +210,10 @@ namespace AstronomicalProcessing
                     neutrinoDataArray[LBx_NeutrinoData.SelectedIndex] = editedValue;
                     LoadData_ListBox();
                     LBx_NeutrinoData.SelectedIndex = selectedIndex;
-                    
+
+                    LB_MessageToUser.ForeColor = Color.Green;
+                    LB_MessageToUser.Text = $"Success! Data has updated successfully!";
+
                     // Resetting the values to default
                     TB_SaveData.Clear();
                     selectedIndex = -1;
