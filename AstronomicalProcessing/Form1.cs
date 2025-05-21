@@ -187,7 +187,7 @@ namespace AstronomicalProcessing
                 {
                     //MessageBox.Show("Please enter valid value to search.", "Error: Invalid/Missing value");
                     LB_MessageToUser.ForeColor = Color.OrangeRed;
-                    LB_MessageToUser.Text = $"Error! Invalid value has entered. Please enter integer value..";
+                    LB_MessageToUser.Text = $"Error! Invalid value has entered. Please enter integer value.";
                     LBx_NeutrinoData.SelectedIndex = foundIndex;
                 }
             }
