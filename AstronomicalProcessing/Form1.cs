@@ -398,7 +398,7 @@ namespace AstronomicalProcessing
             int smallestValue = 0;
             int largestValue = 0;
             int range = 0;
-
+            Sort_ArrayData();
             smallestValue = neutrinoDataArray[0];
             largestValue = neutrinoDataArray[neutrinoDataArray.Length - 1];
 
